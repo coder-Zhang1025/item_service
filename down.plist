@@ -1,1 +1,53 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cheche.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F3F783FE6D473A1AF63450EA691A2EFF8E554968</string>
+				<key>dateExpires</key>
+				<string>11/10/2020</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>S4BW22J67F.insurance.com.cheche365.www</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>S4BW22J67F</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Cheche.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7db9beb0-0518-4c6e-88e7-b1abf5cc1f74</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: insurance.com.cheche365.www</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>S4BW22J67F</string>
+				<key>name</key>
+				<string>Chetimes Insurance Sales &amp; Service Co ., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
